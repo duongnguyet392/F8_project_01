@@ -131,9 +131,11 @@ a {
   line-height: 1.25;
   color: #7d8589;
 }
+
 .clients .row-desc{
   margin-top: 23px;
 }
+
 .clients .images{
   display: flex;
   align-items: center;
